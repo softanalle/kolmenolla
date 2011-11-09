@@ -1,4 +1,4 @@
-#README
+# README
 
 
 This is simple HTML5 project for Android/web browser environment
@@ -24,7 +24,7 @@ At this stage, your time is wasted if you are thinking of contributing to this p
 
 ## Project information
 
-
+The project is not yet mature. It is developed on my own time, and therefore no active support can be expected.
 
 ## License
 
