@@ -1,22 +1,23 @@
-# README
-
 
 This is simple HTML5 project for Android/web browser environment
 
 The name of the project is Finnish number 30. As phonetically it can be misheard as "komennolla", which could be translated to english as something similar than "by your command" (if you remember the old Battlestar Galactica Cylons).
 
 
-## Quick start
+# Quick start
 
 Checkout from github to web browser directory and point your browser to the approriate URL.
 
 * git clone git://github.com/juoksunalle/kolmenolla.git
 
-## Features
 
-## Project information
+# Project information
 
 * Source: git clone git://github.com/juoksunalle/kolmenolla.git
+
+## Features
+
+* Browser support
 
 ## Contributing
 
