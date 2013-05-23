@@ -1,5 +1,5 @@
 
-This is simple HTML5 project for Android/web browser environment
+This is simple HTML5 project for Android/web browser environment which implements simple TODO application. Project aims to implement easy to use application for creating travel expense reporting with todo list.
 
 The name of the project is Finnish number 30. As phonetically it can be misheard as "komennolla", which could be translated to english as something similar than "by your command" (if you remember the old Battlestar Galactica Cylons).
 
